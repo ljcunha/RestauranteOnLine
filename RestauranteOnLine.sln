@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taurus.RestauranteOnLine", "Taurus.RestauranteOnLine\Taurus.RestauranteOnLine.csproj", "{97C04BA5-CB37-434B-BED6-2D7412EB3368}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taurus.RestauranteOnLine.Tests", "Taurus.RestauranteOnLine.Tests\Taurus.RestauranteOnLine.Tests.csproj", "{2797348A-8935-4308-87A7-4FE0862844D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C04BA5-CB37-434B-BED6-2D7412EB3368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C04BA5-CB37-434B-BED6-2D7412EB3368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C04BA5-CB37-434B-BED6-2D7412EB3368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C04BA5-CB37-434B-BED6-2D7412EB3368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2797348A-8935-4308-87A7-4FE0862844D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2797348A-8935-4308-87A7-4FE0862844D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2797348A-8935-4308-87A7-4FE0862844D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2797348A-8935-4308-87A7-4FE0862844D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
